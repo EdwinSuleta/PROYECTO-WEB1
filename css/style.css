@@ -8,6 +8,20 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
+#tarjeta-perfil {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    max-width: 580px;
+    text-align: left;
+    margin: 0 auto;
+}
+.escudo-logo {
+    width: 150px;
+    height: auto;
+    object-fit: contain;
+}
 div {
     background-color: white;
     padding: 30px;
