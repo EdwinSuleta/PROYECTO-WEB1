@@ -56,3 +56,17 @@ a{
     background: none;
     display: block;
 }
+.f img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+.m {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 50px;
+    background-color: white;
+    box-sizing: border-box;
+}
