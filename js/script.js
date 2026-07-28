@@ -28,5 +28,4 @@ document.addEventListener("DOMContentLoaded", function () {
     contenedorResultado.classList.remove("oculta");  
     console.log(`Procesado: ${nombre}, Nota Total: ${notaFinal}`);
   });
-
 });
