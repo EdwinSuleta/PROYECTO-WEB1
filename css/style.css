@@ -50,3 +50,9 @@ a{
     flex-direction: row;
     gap: 20px;
 }
+.link {
+    text-decoration: none;
+    color: inherit;
+    background: none;
+    display: block;
+}
